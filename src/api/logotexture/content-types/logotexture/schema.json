@@ -1,0 +1,27 @@
+{
+  "kind": "singleType",
+  "collectionName": "logotextures",
+  "info": {
+    "singularName": "logotexture",
+    "pluralName": "logotextures",
+    "displayName": "logotexture",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "testHdri": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}
